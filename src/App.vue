@@ -31,9 +31,9 @@ export default {
     },
     initFirework() {
       // fun options!
-      const PARTICLES_PER_FIREWORK = 400; // 100 - 400 or try 1000
-      const FIREWORK_CHANCE = 0.12; // percentage, set to 0 and click instead
-      const BASE_PARTICLE_SPEED = 1.6; // between 0-4, controls the size of the overall fireworks
+      const PARTICLES_PER_FIREWORK = 150; // 100 - 400 or try 1000
+      const FIREWORK_CHANCE = 0.03; // percentage, set to 0 and click instead
+      const BASE_PARTICLE_SPEED = 0.6; // between 0-4, controls the size of the overall fireworks
       const FIREWORK_LIFESPAN = 600; // ms
       const PARTICLE_INITIAL_SPEED = 4.5; // 2-8
 
