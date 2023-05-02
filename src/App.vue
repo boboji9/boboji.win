@@ -9,7 +9,7 @@ export default {
   name: 'App',
   data() {
     return {
-      bbjImgSrc: require("./assets/bbj.jpg"),
+      bbjImgSrc: require("./assets/bbj2.jpg"),
       windowWidth: window.innerWidth,
       windowHeight: window.innerHeight,
     }
